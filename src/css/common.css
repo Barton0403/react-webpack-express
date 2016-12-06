@@ -1,0 +1,40 @@
+.page-section {
+  width: 100%;
+  padding: 10px;
+}
+
+div.field-group {
+  margin-top: 1px;
+}
+
+div.field-errors {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+div.field-text {
+  border: 1px solid #ccc;
+  margin-bottom: -1px;
+}
+
+div.field input[type="text"] {
+  width: 100%;
+  border: none;
+  outline: none;
+  background-color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-indent: 10px;
+}
+
+button.btn {
+  color: #fff;
+  background-color: #3e6de6;
+  border: 0;
+  outline: none;
+  padding: 10px;
+}
+
+button.block {
+  width: 100%;
+}
